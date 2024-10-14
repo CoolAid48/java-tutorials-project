@@ -1,4 +1,4 @@
-# README from VSCode || https://www.youtube.com/watch?v=xk4_1vDrzzo&t
+# README from VSCode https://www.youtube.com/watch?v=xk4_1vDrzzo&t
 
 ## Getting Started
 
